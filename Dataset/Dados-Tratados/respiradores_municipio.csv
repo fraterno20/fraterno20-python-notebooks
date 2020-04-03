@@ -1,4 +1,4 @@
-,quantidade_existente,quantidade_em_uso,estab_c_eq_sus,codigo_ibge,city,latitude,longitude,codigo_uf,state
+,quantidade_existente,quantidade_em_uso,n_estabelecimentos_dispondo,codigo_ibge,city,latitude,longitude,codigo_uf,state
 2,0,0,0,110001,Alta Floresta D'Oeste,-11.9283,-61.9953,11.0,Rondônia
 3,49,49,7,110002,Ariquemes,-9.90571,-63.0325,11.0,Rondônia
 4,0,0,0,110003,Cabixi,-13.4945,-60.552,11.0,Rondônia
