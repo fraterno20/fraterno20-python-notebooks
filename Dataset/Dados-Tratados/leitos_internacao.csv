@@ -1,4 +1,4 @@
-,quantidade,quantidade_sus,quantidade_nao_sus,codigo_ibge,city,latitude,longitude,codigo_uf,state
+,leitos_internacao_total,leitos_internacao_sus,leitos_internacao_nao_sus,codigo_ibge,city,latitude,longitude,codigo_uf,state
 2,49,43,6,110001,Alta Floresta D'Oeste,-11.9283,-61.9953,11.0,Rondônia
 3,240,135,105,110002,Ariquemes,-9.90571,-63.0325,11.0,Rondônia
 4,9,9,0,110003,Cabixi,-13.4945,-60.552,11.0,Rondônia
